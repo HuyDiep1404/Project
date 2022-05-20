@@ -60,4 +60,5 @@ minikube start
 
 4:Delete the cluster after your done:
 minikube delete
+
 [![CircleCI](https://circleci.com/gh/bahuy1404/Project/tree/master.svg?style=svg)](https://circleci.com/gh/bahuy1404/Project/tree/master)
