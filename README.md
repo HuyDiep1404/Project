@@ -48,8 +48,10 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
 1:To start a local cluster:
 minikube start
+
 2:To deploy this application in kubernetes:
 ./run_kubernetes.sh
 
